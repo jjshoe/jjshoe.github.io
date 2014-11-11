@@ -20,7 +20,7 @@ Experience
 |:-|
 |4/7/14 - Current|
 | Day to day <ul><li>Responsible for maintaining CI in Atlassian's Bamboo</li><li>Participate in on call rotation</li><li>Participate in multiple sprint planning sessions to keep on top of developer needs</li><li>Constantly research methods to improve automated deployments</li></ul>|
-| Accomplishments <ul><li>Speed up infrastructure development utilizing vagrant</li><li>Implemented bamboo continuous integration to support our continuous deployments using technologies like S3, CloudFront, and RDS</li><li>Created deployment to AWS from the ground up using Ansible's best practices</li><li>Implemented monitoring of the infrastructure using sensu dumping statistics to graphite</li><li>Implemented an automatic load testing environment </li><li>Multitude of of bug fixes given back to ansible</li></ul>
+| Accomplishments <ul><li>Speed up infrastructure development utilizing vagrant</li><li>Implemented bamboo continuous integration to support our continuous deployments using technologies like S3, CloudFront, and RDS</li><li>Created deployment to AWS from the ground up using Ansible's best practices</li><li>Implemented monitoring of the infrastructure using sensu dumping statistics to graphite</li><li>Implemented an automatic load testing environment </li><li>Multitude of bug fixes given back to ansible</li></ul>
 
 <br>
 
