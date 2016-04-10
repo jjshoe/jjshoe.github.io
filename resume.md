@@ -19,7 +19,7 @@ Experience
 |Sr. DevOps, Virtru, Minneapolis, MN|
 |:-|
 |5/18/15 - Current|
-| Day to day <ul><li>Responsible for maintaining CI in Atlassian's Bamboo</li><li>Participate in multiple sprint planning sessions to keep on top of developer needs</li><li>Constantly research methods to improve automated deployments</li></ul>|
+| Day to day <ul><li>Responsible for maintaining CI in Atlassian's Bamboo</li><li>Participate in multiple sprint planning sessions to keep on top of developer needs</li><li>Constantly research methods to improve automated deployments</li><li>Manage user accounts across multiple services</li></ul>|
 | Accomplishments <ul><li>Re-Wrote legacy fabric scripts in Anisble</li><li>Migrated entire infrastructure from EC2 Classic to VPCs</li><li>Speed up infrastructure development utilizing vagrant</li><li>Implemented bamboo continuous integration to support our continuous deployments using technologies like S3, CloudFront, Autoscaling and Loadbalancing</li><li>Multitude of bug fixes given back to ansible</li></ul>
 
 <br>
